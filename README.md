@@ -9,7 +9,7 @@
 <hr size="3px" color="gray" />
 <h3 align="left"> <b> Connect with me: </b> </h3>
 <p align="left">
-<a href="https://linkedin.com/in/william garcía zambrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william garcía zambrano" height="30" width="40" />
+<a href="https://www.linkedin.com/in/william-garc%C3%ADa-zambrano-b6345923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william garcía zambrano" height="30" width="40" />
 </a>
 <a href="mailto:willygarciaz@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="william garcía zambrano" height="30" width="40" />
 </a>
