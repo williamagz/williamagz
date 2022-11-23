@@ -26,7 +26,7 @@
 
 <p align="left"> An app for test use of: <p>
 <p align="left"> Backend <p>
-<p align="left"> - Backend - Consume the open API <a href="https://api.spoonacular.com"> Spoonacular </a>  - Data formatting for send to frontend.  - Use of ORM Sequelize for store new recipies. - Use of Express for local server. <p>
+<p align="left"> - Backend - Consume the open API <a href="https://spoonacular.com/food-api"> Spoonacular </a>  - Data formatting for send to frontend.  - Use of ORM Sequelize for store new recipies. - Use of Express for local server. <p>
 <p align="left"> Frontend <p>
 <p align="left"> - Use of pure CSS for styling.  - Combined filters.  - Controlled form for add new recipies. - Redux for persistent state. <p>
 <img  src="https://res.cloudinary.com/compudevsphotos/image/upload/v1669217622/personalProjects/foods_urboyf.png" width="400px"/>
